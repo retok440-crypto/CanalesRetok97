@@ -1,0 +1,509 @@
+
+#EXTM3U
+
+# ============================================
+# TV MEXICO
+# ============================================
+
+#EXTINF:-1 group-title="TV Mexico",Azteca Uno
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",Azteca Uno (Opción 2)
+http://201.174.175.3:8000/play/a0k4/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV Mexico",Azteca 7
+http://201.174.175.3:8000/play/a0kl/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV Mexico",Las Estrellas
+http://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",Las Estrellas HD
+http://181.78.79.131:8000/play/a0qu
+
+#EXTINF:-1 group-title="TV Mexico",Canal de las Estrellas
+http://181.78.8.199:8000/play/a0as/index.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",CANALESTRELLAS
+http://181.78.8.199:8000/play/a0cx/index.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",Multimedios MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",Multimedios GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",Multimedios Puebla
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",CANALES NACIONALES
+http://181.78.8.199:8000/play/a0cy/index.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",CANAL 12 VALLEDUPAR
+http://181.78.8.199:8000/play/a0e4/index.m3u8
+
+#EXTINF:-1 group-title="TV Mexico",CANAL CONGRE NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d2/index.m3u8
+
+# ============================================
+# CHILE
+# ============================================
+
+#EXTINF:0 group-title="Chile",CHV
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r0
+
+#EXTINF:0 group-title="Chile",Canal 13
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n4
+
+#EXTINF:0 group-title="Chile",Capital
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sj
+
+#EXTINF:0 group-title="Chile",MEGA HD
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qn
+
+#EXTINF:0 group-title="Chile",ViaX
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t4
+
+#EXTINF:0 group-title="Chile",Zoom
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sg
+
+# ============================================
+# COLOMBIA
+# ============================================
+
+#EXTINF:0 group-title="Colombia",Canal Caracol
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sb
+
+#EXTINF:0 group-title="Colombia",CARACOL
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:0 group-title="Colombia",Canal RCN
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sc
+
+#EXTINF:0 group-title="Colombia",RCN Novelas
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sk
+
+#EXTINF:0 group-title="Colombia",City TV
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0si
+
+#EXTINF:0 group-title="Colombia",TRO
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sh
+
+#EXTINF:0 group-title="Colombia",CABLE NOTICIAS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0g3/index.m3u8
+
+#EXTINF:0 group-title="Colombia",CABLE NOTICIAS (Opción 2)
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0e8/index.m3u8
+
+# ============================================
+# GENERAL
+# ============================================
+
+#EXTINF:0 group-title="General",13 C
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pm
+
+#EXTINF:0 group-title="General",Canal TUVES
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q8
+
+#EXTINF:0 group-title="General",Canal del Congreso
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0se
+
+#EXTINF:0 group-title="General",ID
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sl
+
+#EXTINF:0 group-title="General",BITME
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+
+# ============================================
+# ENTRETENIMIENTO
+# ============================================
+
+#EXTINF:0 group-title="Entretenimiento",A&E HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mt
+
+#EXTINF:11 group-title="Entretenimiento",AE
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0al/index.m3u8
+
+#EXTINF:0 group-title="Entretenimiento",AE (Opción 2)
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ct/index.m3u8
+
+#EXTINF:0 group-title="Entretenimiento",Adult Swim
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pk
+
+#EXTINF:0 group-title="Entretenimiento",Comedy Central HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mu
+
+#EXTINF:0 group-title="Entretenimiento",Lifetime
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pi
+
+#EXTINF:0 group-title="Entretenimiento",MTV HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0nc
+
+#EXTINF:0 group-title="Entretenimiento",Baby First
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sw
+
+#EXTINF:0 group-title="Entretenimiento",BABYTV ENVIADO
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a08d/index.m3u8
+
+#EXTINF:0 group-title="Entretenimiento",Disney Jr.
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p7
+
+#EXTINF:0 group-title="Entretenimiento",Nickelodeon HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qm
+
+# ============================================
+# PELICULAS
+# ============================================
+
+#EXTINF:0 group-title="Peliculas",AXN HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q0
+
+#EXTINF:0 group-title="Peliculas",AXN
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0am/index.m3u8
+
+#EXTINF:0 group-title="Peliculas",AXN (Opción 2)
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+
+#EXTINF:0 group-title="Peliculas",Cinecanal
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pp
+
+#EXTINF:0 group-title="Peliculas",De Pelicula
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qb
+
+#EXTINF:0 group-title="Peliculas",HBO Xtreme HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qy
+
+#EXTINF:0 group-title="Peliculas",HBO Xtreme
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://201.174.175.3:8000/play/a0y4/index.m3u8u?hls
+
+#EXTINF:0 group-title="Peliculas",Paramount
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://201.174.175.3:8000/play/a0vm/index.m3u8u?hls
+
+#EXTINF:0 group-title="Peliculas",HBO
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://201.174.175.3:8000/play/a0y0/index.m3u8u?hls
+
+#EXTINF:0 group-title="Peliculas",Pasiones HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qh
+
+#EXTINF:0 group-title="Peliculas",Space HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q2
+
+#EXTINF:0 group-title="Peliculas",TNT Novelas HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0na
+
+#EXTINF:0 group-title="Peliculas",Tlnovelas
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t6
+
+#EXTINF:0 group-title="Peliculas",UNIVERSAL CHANNEL HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mw
+
+#EXTINF:0 group-title="Peliculas",Warner
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sz
+
+#EXTINF:0 group-title="Peliculas",Warner TV HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pz
+
+# ============================================
+# DOCUMENTALES
+# ============================================
+
+#EXTINF:0 group-title="Documentales",Animal Planet
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0po
+
+#EXTINF:0 group-title="Documentales",ANIMAL PLANET
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0by/index.m3u8
+
+#EXTINF:0 group-title="Documentales",Animal Planet HD AMAZONAS
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a06w/index.m3u8
+
+#EXTINF:0 group-title="Documentales",Discovery Science
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pb
+
+#EXTINF:0 group-title="Documentales",Discovery Turbo
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p8
+
+#EXTINF:0 group-title="Documentales",Discovery World HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n8
+
+#EXTINF:0 group-title="Documentales",History Channel
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0st
+
+#EXTINF:0 group-title="Documentales",Nat Geo HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pt
+
+#EXTINF:0 group-title="Documentales",TLC
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t3
+
+# ============================================
+# RELIGION
+# ============================================
+
+#EXTINF:0 group-title="Religion",BETHEL TV
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pn
+
+# ============================================
+# LATINOAMERICA
+# ============================================
+
+#EXTINF:0 group-title="Latinoamerica",ATV
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sp
+
+#EXTINF:0 group-title="Latinoamerica",Zona Latina
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0su
+
+# ============================================
+# MUSICA
+# ============================================
+
+#EXTINF:0 group-title="Musica",BANDAMAX
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+
+# ============================================
+# ESPAÑA
+# ============================================
+
+#EXTINF:0 group-title="España",TRECE
+#EXTGRP:España
+#EXTVLCOPT:network-caching=1000
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
+#EXTINF:0 group-title="España",El Toro TV
+#EXTGRP:España
+#EXTVLCOPT:network-caching=1000
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:0 group-title="España",Negocios TV
+#EXTGRP:España
+#EXTVLCOPT:network-caching=1000
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:0 group-title="España",Canal Parlamento
+#EXTGRP:España
+#EXTVLCOPT:network-caching=1000
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
+# ============================================
+# EUROPA / INTERNACIONAL
+# ============================================
+
+#EXTINF:0 group-title="Europa",DW Español
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:0 group-title="Europa",Bloomberg Europe
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:0 group-title="Europa",EITB Basque
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+
+# ============================================
+# CARICATURAS / INFANTILES
+# ============================================
+
+#EXTINF:-1 group-title="Caricaturas",NICK
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
+#EXTINF:-1 group-title="Caricaturas",ToonCast
+http://201.174.175.3:8000/play/a0tg/index.m3u8u?hls
+
+#EXTINF:-1 group-title="Caricaturas",Adult Swim
+http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
+
+#EXTINF:-1 group-title="Caricaturas",Cartoon NW
+http://201.174.175.3:8000/play/a0xz/index.m3u8u?hls
+
+#EXTINF:-1 group-title="Caricaturas",Bitme
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+
+# ============================================
+# SERIES Y VARIEDADES
+# ============================================
+
+#EXTINF:-1 group-title="Series y Variedades",Archivos Forenses
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+
+#EXTINF:-1 group-title="Series y Variedades",K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+
+#EXTINF:-1 group-title="Series y Variedades",SONY
+http://179.60.224.196:8000/play/a0ij/index.m3u8?hls
+
+# ============================================
+# CANALES 24/7
+# ============================================
+
+#EXTINF:-1 group-title="Canales 24/7",Bob Esponja
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",Avatar Serie
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",Naruto
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",Boruto: Naruto Next Generations
+https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",One Piece
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",Anime 24/7
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",Las Tortugas Ninja
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",Empeños a lo Bestia
+https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",South Park
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",Kenan Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",La Familia del Barrio
+https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
+
+#EXTINF:-1 group-title="Canales 24/7",El Gran Bender
+https://www.dropbox.com/scl/fi/ds1en042w0dxabxui4s0e/01-El-Gran-Golpe-de-Bender.mp4?rlkey=clzbtzmvwbyq4z6vgxhcn3uo6&st=syqqq51s&dl=1
